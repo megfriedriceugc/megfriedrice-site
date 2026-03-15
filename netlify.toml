@@ -7,8 +7,8 @@ redirects = []
   [functions."*"]
 
 [build]
-publish = "/Users/andrewbryce/Documents/megfriedriceugc"
-publishOrigin = "default"
+publish = "."
+publishOrigin = "config"
 
   [build.environment]
 
